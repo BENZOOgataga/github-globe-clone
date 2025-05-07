@@ -4,7 +4,13 @@
 
 ## Introduce
 
-Its a similar [github globe](https://github.com/globe) example page, just for fun and study.  
+Its a similar [github home](https://github.com/home) example page, just for fun and study. Use modular javascript to rewirte [github-globe](https://github.com/nandhakumarRNK/github-globe-clone);
+
+## Live demo
+
+[github globe module](https://nandhakumarRNK.github.io/github-globe-clone/)
+=======
+Its a similar [github home](https://github.com/home) clone example page, just for fun and study. Use threejs to rewirte [github-globe](https://github.com/nandhakumarRNK/github-globe-clone);
 
 ## Developer guide
 
@@ -16,5 +22,3 @@ Its a similar [github globe](https://github.com/globe) example page, just for fu
 1. [discoverthreejs-site](https://github.com/looeee/discoverthreejs-site);
 2. [three-globe](https://github.com/vasturiano/three-globe);
 3. [github-globe](https://github.com/nandhakumarRNK/github-globe-clone).
-
-Modified by BENZOOgataga to reflect connections to any benzoogataga.com website, service or game server.  
