@@ -30,7 +30,7 @@ class World {
     camera.add(ambientLight, dLight, dLight1, dLight2);
 
     globe = new Globe();
-    globe.init();
+    globe.init(); // This now handles the loading state
     loop.updatables.push(globe.instance);
 
     scene.add(camera, globe.instance);
@@ -39,9 +39,9 @@ class World {
       camera,
       controls,
       globe.instance,
-      { lat: 22.3193, lng: 114.1694 },
+      { lat: 48.8566, lng: 2.3522 }, // Paris coordinates 
       1000
-    ); // China HongKong
+    );
 
     const resizer = new Resizer(camera, renderer);
 
